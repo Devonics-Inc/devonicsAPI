@@ -1,2 +1,4 @@
 # devonicsAPI
-Devonics API for controlling Devonics End Effectors &amp; peripherals
+Devonics API for controlling Devonics End Effectors &amp; Peripherals
+
+Documentation Coming Soon!
